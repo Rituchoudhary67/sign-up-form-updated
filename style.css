@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+hr {
+    width: 80%;
+}
+.or-text {
+    background-color: white;
+    width: 30px;
+    margin: -10px auto 15px;
+}
